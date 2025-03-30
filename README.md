@@ -1,2 +1,4 @@
 # Rut-s-Python-Projects-Portfolio
-Business Intelligence, Data Analytics, and Data Scientist Online Course Project
+From Regression Analysis to Machine Learning projects
+
+
